@@ -1,3 +1,3 @@
-# This is the TRL-Lab landing page
+# TRL-Lab .github
 
-Add a description here.
+The [profile/README.md](./profile/README.md) file defines the contents of the TRL-Lab GitHub organization landing page.
